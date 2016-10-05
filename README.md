@@ -1,5 +1,5 @@
-# hello-world
-just another repository
+# 写作练习
+日常写作
 shi-jian-kai-xiao
 ***
 **有用吗？**
